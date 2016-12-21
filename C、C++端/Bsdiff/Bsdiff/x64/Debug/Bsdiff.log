@@ -1,0 +1,21 @@
+﻿生成启动时间为 2016/12/20 15:14:22。
+     1>项目“E:\C_Work\Bsdiff\Bsdiff\Bsdiff.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\vs2013\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl- /Od /D _WINDLL /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt -D _CRT_SECURE_NO_WARNINGS -D _CRT_NONSTDC_NO_DEPRECATE bsdiff.cpp
+         bsdiff.cpp
+       Link:
+         D:\vs2013\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"E:\C_Work\Bsdiff\x64\Debug\Bsdiff.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\C_Work\Bsdiff\x64\Debug\Bsdiff.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\C_Work\Bsdiff\x64\Debug\Bsdiff.lib" /MACHINE:X64 /DLL x64\Debug\blocksort.obj
+         x64\Debug\bsdiff.obj
+         x64\Debug\bzlib.obj
+         x64\Debug\compress.obj
+         x64\Debug\crctable.obj
+         x64\Debug\decompress.obj
+         x64\Debug\huffman.obj
+         x64\Debug\randtable.obj
+            正在创建库 E:\C_Work\Bsdiff\x64\Debug\Bsdiff.lib 和对象 E:\C_Work\Bsdiff\x64\Debug\Bsdiff.exp
+         Bsdiff.vcxproj -> E:\C_Work\Bsdiff\x64\Debug\Bsdiff.dll
+     1>已完成生成项目“E:\C_Work\Bsdiff\Bsdiff\Bsdiff.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.34
